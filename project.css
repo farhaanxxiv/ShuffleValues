@@ -1,0 +1,104 @@
+
+
+  .mainbody1{
+      font-family: Arial, Helvetica, sans-serif;
+      font-size: 30px;
+      color: #f2f2f2;
+      margin-top: 50px;
+      margin-left:150px;
+      text-shadow:2px 1px #420215;
+  }
+
+  #cwninput{
+    margin-top: 50px;
+    margin-left: 50px;
+  }
+
+  #test{
+    font-size:x-large;
+    color: white;
+  }
+
+  .test1{
+    margin-top: 50px;
+  }
+  
+
+  .cwninpnutclass {
+    display: flex;
+    padding: 0;
+    margin: 0;
+}
+
+.rollnumbers {
+    float: left;
+}
+
+.topics {
+    float: left;
+}
+
+
+.nvm-headings{
+  font-family: Arial, Helvetica, sans-serif;
+
+}
+
+
+table,  td , th {
+
+  font-size: large;
+  text-align: center;
+  border: 2px solid black;
+  color:black;
+  border-collapse: collapse;
+  background-color: white;
+  width: fit-content+50px;
+
+  
+}
+
+th{
+color:black;
+font-weight: bolder;
+}
+
+td{
+  padding: 4px 20px 4px 20px;
+}
+
+
+
+#finaltable{
+  display: table;
+  margin: 0 auto;
+  margin-bottom: 30px;
+}
+
+#createButton{
+	margin-top:20px;
+color: white;
+  margin-left: 100px;
+  width: 150px;
+  height: 50px;
+  border-radius: 5px;
+  border-color: #c3073f;
+  background-color: #1a1a1d;
+
+}
+
+
+#createButton:hover{
+
+  background-color: #c3073f;
+}
+
+
+.yourTable{
+
+  color: white;
+  font-size: x-large;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+
